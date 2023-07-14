@@ -1,0 +1,30 @@
+{
+    "title": "CLDF dataset derived from Liu et al.'s \"Comparative Wordlist of Newari Varieties\" from 2023",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Zhenyang Liu"
+        },
+        {
+            "name": "Guillaume Jacques"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Liu, Zhenyang; Jacques, Guillaume; List, Johann-Mattis (2023): Creating a Standardized Comparative Wordlist of Newari Varieties. (26/07/2023), URL: https://calc.hypotheses.org/+++.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
