@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Liu, Zhenyang; Jacques, Guillaume; List, Johann-Mattis (2023): Creating a Standardized Comparative Wordlist of Newari Varieties. (26/07/2023), URL: https://calc.hypotheses.org/+++.
+  > Liu, Zhenyang; Jacques, Guillaume; List, Johann-Mattis (2023): Creating a Standardized Comparative Wordlist of Newari Varieties. (26/07/2023), URL: https://calc.hypotheses.org/6269.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -12,7 +12,7 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
-Available online at https://calc.hypotheses.org/+++
+Available online at https://calc.hypotheses.org/6269
 
 
 Conceptlists in Concepticon:

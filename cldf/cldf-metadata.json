@@ -1,12 +1,12 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Liu, Zhenyang; Jacques, Guillaume; List, Johann-Mattis (2023): Creating a Standardized Comparative Wordlist of Newari Varieties. (26/07/2023), URL: https://calc.hypotheses.org/+++.",
+    "dc:bibliographicCitation": "Liu, Zhenyang; Jacques, Guillaume; List, Johann-Mattis (2023): Creating a Standardized Comparative Wordlist of Newari Varieties. (26/07/2023), URL: https://calc.hypotheses.org/6269.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Sagart-2019-250"
     ],
-    "dc:identifier": "https://calc.hypotheses.org/+++",
+    "dc:identifier": "https://calc.hypotheses.org/6269",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/liunewari",
             "rdf:type": "prov:Entity",
-            "dc:created": "8680f3f",
+            "dc:created": "c40fd13",
             "dc:title": "Repository"
         },
         {
